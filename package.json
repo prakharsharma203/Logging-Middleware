@@ -1,0 +1,18 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Logging Middleware",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Middleware"
+  ],
+  "author": "Prakhar Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
